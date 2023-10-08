@@ -23,5 +23,3 @@ function popup(name){
 function winClose(){
     box.style.display = "none"
 }
-
-console,log("HI")
